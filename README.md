@@ -1,2 +1,2 @@
- DIVE INTO CODE Machine Learning Course
+ DIVE INTO CODE MACHINE LEARNING COURSE:
  This is a repository for managing assignments for DIVE INTO CODE Machine Learning course. 
