@@ -1,1 +1,2 @@
-All packages in this directory will be automatically loaded
+ DIVE INTO CODE Machine Learning Course
+ This is a repository for managing assignments for DIVE INTO CODE Machine Learning course. 
